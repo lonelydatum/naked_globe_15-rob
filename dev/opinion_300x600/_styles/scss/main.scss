@@ -7,7 +7,7 @@
 .frame1 {
 	// opacity: 1;
 	#bg{
-		@include pos-scale(0, 0, .5);
+		@include pos-scale(0, 0, 1);
 	}
 
 	#t1{
