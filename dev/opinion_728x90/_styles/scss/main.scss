@@ -1,0 +1,79 @@
+
+
+@import '../../../_common/styles/common.scss';
+
+
+
+.frame1 {
+	// opacity: 1;
+	#bg{
+		@include pos-scale(0, 0, .5);
+	}
+
+	#t1{
+		@include pos-scale(113, 18, .5);
+		// @include pos-scale(33, 68, .5);
+	}
+
+	#t2{
+		@include pos-scale(212, 53, .5);		
+	}
+
+	#line{
+		width: 508px;
+		height: 2px;
+		background-color: #cd2724;
+		@include pos(116, 44);		
+	}
+
+	
+}
+
+.frame2{
+	
+	#t3{
+		@include pos-scale(244, 25, .5);		
+	}
+	
+
+	#logo{
+		@include pos-scale(145, 9, .5);		
+	}
+
+	
+}
+
+.frame3{
+
+
+	#t4{
+		@include pos-scale(394, 28, .5);		
+	}
+	
+	#medium{
+		@include pos-scale(27, 8, .5);		
+	}
+
+	#cta{
+		width: 292px;
+		height: 27px;
+		background-color: #cd2724;
+		@include pos(395, 51);
+		img{
+			@include pos(102, 4);
+			height: 19px;
+		}
+	}
+}
+
+
+
+
+
+#banner{
+	font-size: 20px;
+	color: #333;
+	width: 728px;
+	height: 90px;
+}
+
