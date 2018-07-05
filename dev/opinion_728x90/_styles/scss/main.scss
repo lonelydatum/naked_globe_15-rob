@@ -47,11 +47,14 @@
 
 
 	#t4{
-		@include pos-scale(394, 28, .5);		
+		@include pos-scale(383, 28, .5);		
 	}
 	
 	#medium{
-		@include pos-scale(27, 8, .5);		
+		@include pos-scale(12, 8, .5);		
+	}
+	#logo{
+		@include pos-scale(288, 12, .5);		
 	}
 
 	#cta{

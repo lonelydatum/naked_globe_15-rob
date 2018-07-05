@@ -222,9 +222,9 @@ sup {
 }
 
 .frame3 #t4 {
-  -webkit-transform: translate(394px, 28px) scale(0.5, 0.5);
-  -ms-transform: translate(394px, 28px) scale(0.5, 0.5);
-  transform: translate(394px, 28px) scale(0.5, 0.5);
+  -webkit-transform: translate(383px, 28px) scale(0.5, 0.5);
+  -ms-transform: translate(383px, 28px) scale(0.5, 0.5);
+  transform: translate(383px, 28px) scale(0.5, 0.5);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-perspective: 1000px;
@@ -233,9 +233,20 @@ sup {
 }
 
 .frame3 #medium {
-  -webkit-transform: translate(27px, 8px) scale(0.5, 0.5);
-  -ms-transform: translate(27px, 8px) scale(0.5, 0.5);
-  transform: translate(27px, 8px) scale(0.5, 0.5);
+  -webkit-transform: translate(12px, 8px) scale(0.5, 0.5);
+  -ms-transform: translate(12px, 8px) scale(0.5, 0.5);
+  transform: translate(12px, 8px) scale(0.5, 0.5);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-perspective: 1000px;
+  perspective: 1000px;
+  position: absolute;
+}
+
+.frame3 #logo {
+  -webkit-transform: translate(288px, 12px) scale(0.5, 0.5);
+  -ms-transform: translate(288px, 12px) scale(0.5, 0.5);
+  transform: translate(288px, 12px) scale(0.5, 0.5);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-perspective: 1000px;
