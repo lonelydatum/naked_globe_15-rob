@@ -152,10 +152,6 @@ sup {
   image-rendering: -webkit-optimize-contrast;
 }
 
-.frame1 {
-  opacity: 1;
-}
-
 .frame1 #bg {
   -webkit-transform: translate(0px, 0px) scale(1, 1);
   -ms-transform: translate(0px, 0px) scale(1, 1);
