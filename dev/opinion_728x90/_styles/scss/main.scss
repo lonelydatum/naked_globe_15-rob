@@ -51,7 +51,7 @@
 	}
 	
 	#medium{
-		@include pos-scale(12, 8, .5);		
+		@include pos(12, 3);		
 	}
 	#logo{
 		@include pos-scale(288, 12, .5);		

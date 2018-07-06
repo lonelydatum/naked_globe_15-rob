@@ -26,7 +26,7 @@ function start(){
     tl.from('#cta', .5, {opacity:0}, '+=.3')
     
 
-    // tl.gotoAndPlay("f2")
+    // tl.gotoAndPlay("f3")
 }
 
 start()

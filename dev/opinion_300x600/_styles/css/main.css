@@ -233,9 +233,9 @@ sup {
 }
 
 .frame1 #medium {
-  -webkit-transform: translate(27px, 474px) scale(0.5, 0.5);
-  -ms-transform: translate(27px, 474px) scale(0.5, 0.5);
-  transform: translate(27px, 474px) scale(0.5, 0.5);
+  -webkit-transform: translate(24px, 474px);
+  -ms-transform: translate(24px, 474px);
+  transform: translate(24px, 474px);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-perspective: 1000px;
